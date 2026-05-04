@@ -23,7 +23,7 @@ A Python-based SQL Injection Scanner built for ethical security testing on permi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Syntecxhub_SQL_Injection_Scanner.git
+git clone https://github.com/J-M-Rawsan/Syntecxhub_SQL_Injection_Scanner.git
 cd Syntecxhub_SQL_Injection_Scanner
 ```
 
