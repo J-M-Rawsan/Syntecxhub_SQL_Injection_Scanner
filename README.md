@@ -49,6 +49,7 @@ python sql_scanner.py
 | `report_YYYYMMDD_HHMMSS.csv` | CSV report for spreadsheet viewing |
 
 ## Sample Output
+
 ```bash
 Login SUCCESS!
 Security level set to LOW
@@ -60,10 +61,12 @@ Vulnerable : 9
 Safe       : 0
 Total      : 9
 ```
+
 ## ⚠️ Disclaimer
-This tool is for **educational purposes only**.
-Only test on systems you have **explicit permission** to test.
-Unauthorized use is illegal and unethical.
+
+- This tool is for **educational purposes only**.
+- Only test on systems you have **explicit permission** to test.
+- Unauthorized use is illegal and unethical.
 
 ## Internship
 Built as part of the **Syntecxhub Cybersecurity Internship Program**
