@@ -1,7 +1,7 @@
 # SQL Injection Scanner 🔍
 
 A Python-based SQL Injection Scanner built for ethical security testing on permitted targets like DVWA.
-
+---
 ## Features
 - Automated SQL injection payload testing
 - CSRF token handling & session management
