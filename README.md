@@ -4,7 +4,7 @@ A Python-based SQL Injection Scanner built for ethical security testing on permi
 
 ---
 
-## Features
+## ✨ Features
 - Automated SQL injection payload testing
 - CSRF token handling & session management
 - Concurrent scanning (3 workers)
@@ -12,14 +12,14 @@ A Python-based SQL Injection Scanner built for ethical security testing on permi
 - Detailed logging to `sql_scanner.log`
 - JSON & CSV report generation
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Python 3.x
 - `requests` — HTTP requests
 - `beautifulsoup4` — CSRF token parsing
 - `tqdm` — Progress bar
 - `concurrent.futures` — Multithreading
 
-## Setup & Installation
+## 🚀 Setup & Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -43,14 +43,14 @@ pip install requests tqdm beautifulsoup4
 python sql_scanner.py
 ```
 
-## Output Files
+## 📁 Output Files
 | File | Description |
 |------|-------------|
 | `sql_scanner.log` | Detailed scan logs with timestamps |
 | `report_YYYYMMDD_HHMMSS.json` | Full JSON report |
 | `report_YYYYMMDD_HHMMSS.csv` | CSV report for spreadsheet viewing |
 
-## Sample Output
+## 🖥️ Sample Output
 
 ```bash
 Login SUCCESS!
@@ -70,7 +70,13 @@ Total      : 9
 - Only test on systems you have **explicit permission** to test.
 - Unauthorized use is illegal and unethical.
 
-## Internship
+## 📸 Screenshots
+
+### SQL SCANNER
+[SQL SCANNER](Screenshort/SQL_SCANNER)
+
+
+## 🎓 Internship
 Built as part of the **Syntecxhub Cybersecurity Internship Program**
-> CREATE | THINK | SOLVE
+> 💡 CREATE | 🧠 THINK | ✅ SOLVE
 <br>
