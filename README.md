@@ -49,7 +49,7 @@ python sql_scanner.py
 | `report_YYYYMMDD_HHMMSS.csv` | CSV report for spreadsheet viewing |
 
 ## Sample Output
-
+```bash
 Login SUCCESS!
 Security level set to LOW
 Starting scan with 3 concurrent workers...
@@ -59,7 +59,7 @@ Scan Complete!
 Vulnerable : 9
 Safe       : 0
 Total      : 9
-
+```
 ## ⚠️ Disclaimer
 This tool is for **educational purposes only**.
 Only test on systems you have **explicit permission** to test.
