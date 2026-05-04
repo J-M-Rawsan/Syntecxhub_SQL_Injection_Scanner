@@ -73,7 +73,7 @@ Total      : 9
 ## 📸 Screenshots
 
 ### SQL SCANNER
-[SQL SCANNER](Screenshort/SQL_SCANNER)
+[SQL SCANNER](Screenshort/SQL_SCANNER.png)
 
 
 ## 🎓 Internship
