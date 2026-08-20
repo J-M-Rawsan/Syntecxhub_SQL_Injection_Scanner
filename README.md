@@ -1,4 +1,4 @@
-# SQL Injection Scanner 🔍
+hi# SQL Injection Scanner 🔍
 
 A Python-based SQL Injection Scanner built for ethical security testing on permitted targets like DVWA.
 
@@ -80,3 +80,4 @@ Total      : 9
 Built as part of the **Syntecxhub Cybersecurity Internship Program**
 > 💡 CREATE | 🧠 THINK | ✅ SOLVE
 <br>
+<!---Rawsan--->
